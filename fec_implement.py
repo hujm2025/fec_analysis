@@ -101,3 +101,4 @@ if __name__ == "__main__":
     analyzer.plot_top_occupations(pivot, top_n=10)
     analyzer.bucket_analysis(data)
     analyzer.state_analysis(data, top_n=10)
+    print('The End')
